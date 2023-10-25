@@ -1,0 +1,14 @@
+.toolbarItem {
+    padding: 3px 10px;
+
+    border: 2px solid #333333;
+
+    cursor: pointer;
+}
+
+.toolbar-active {
+    background-color: #333333;
+    color: #fff;
+
+    cursor: default;
+}

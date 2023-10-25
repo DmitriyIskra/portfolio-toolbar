@@ -1,0 +1,15 @@
+
+.project-list {
+    display: flex;
+    margin-top: 40px;
+
+    flex-wrap: wrap;
+}
+
+.project-item {
+    display: flex;
+    width: 33.333%;
+    
+    align-items: center;
+    justify-content: center;
+}
